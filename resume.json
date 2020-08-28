@@ -1,0 +1,19 @@
+{
+  "Education": [
+    "(2017-2021) BTech in computer Science engineering from JSSATE Noida with aggregate 85%",
+    "(2015-2016) S.S.C from ST.Mary's School ,Mainpuri with 84.6 %",
+    "(2013-2014) H.S.C from above stated school with 10 CGPA"
+  ],
+  "Experience": [
+    "(AUGUST 2017 - present) Front-end developer at Microsoft Mobile Innovation Lab a tech society in college"
+  ],
+  "Tech Stack": ["HTML", "CSS", "JS", "ReactJs", "Node.Js", "MongodB", "C++"],
+  "Projects": ["COvi-eD-Portal --> Build Complete Backend in Node.js"],
+  "Extracurricular": [
+    "Volleyball Player in the official team of college",
+    "Active member in the dramatic society of college",
+    "Play guitar",
+    "Participated in Youth Parliament"
+  ],
+  "Contact": ["gunjanyadav048@gmail.com"]
+}
