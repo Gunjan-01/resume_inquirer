@@ -5,7 +5,7 @@ Resume-inquirer-cliapp is a npm package that allow user to enquire about your re
 ## Installation
 
 ```
-npm i -g resume_inquirer
+npm i -g resume_inquirer1
 ```
 
 - Version: 1.0.1
