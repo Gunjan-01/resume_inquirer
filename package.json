@@ -1,5 +1,5 @@
 {
-  "name": "resume_inquirer",
+  "name": "resume_inquirer1",
   "version": "1.0.0",
   "description": "A CLI APP to enquire your resume fileds",
   "main": "bin/index.js",
