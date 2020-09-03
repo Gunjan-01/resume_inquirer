@@ -2,7 +2,7 @@
   "name": "resume_inquirer1",
   "version": "1.0.0",
   "description": "A CLI APP to enquire your resume fileds",
-  "main": "bin/index.js",
+  "main": "index.js",
   "dependencies": {
     "chalk": "^4.1.0",
     "inquirer": "^7.3.3"
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Gunjan-01/resume_inquirer#readme",
   "bin": {
-    "resume_inquirer": "./bin/index.js"
+    "gunjan": "./index.js"
   }
 }

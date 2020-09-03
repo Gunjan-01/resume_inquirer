@@ -5,7 +5,6 @@ var inquirer = require('inquirer');
 var chalk = require('chalk');
 
 var response = chalk.bold.green;
-
 var resume = require('./resume.json');
 
 var resumePrompts = {
@@ -31,7 +30,7 @@ function resumeHandler() {
       console.log(response('|   => ' + info));
     });
     console.log(response('--------------------------------------'));
-    
+
     inquirer
       .prompt({
         type: 'list',
@@ -41,6 +40,7 @@ function resumeHandler() {
       })
       .then((choice) => {
         if (choice.exitBack == 'Back') {
+          console.clear();
           resumeHandler();
         } else {
           return;
