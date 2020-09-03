@@ -1,6 +1,6 @@
 # Resume-inquirer-cliapp
 
-Resume-inquirer-cliapp is a npm package that allow user to enquire about your resume through CLI
+Resume-inquirer-cliapp is a npm package that allow user to enquire about resume 
 
 ## Installation
 
